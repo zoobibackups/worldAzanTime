@@ -1,0 +1,1 @@
+https://www.mp3quran.net/api/v3/reciters?language=ur
