@@ -83,3 +83,13 @@ function App() {
 }
 
 export default App;
+
+
+/* 
+
+
+[FIRApp configure];
+  bool didFinish=[super application:application didFinishLaunchingWithOptions:launchOptions]; // added 
+  [RNSplashScreen show];  // here
+  return didFinish; 
+*/
